@@ -1,3 +1,3 @@
 # control-and-system-book
-textbook about control, robotics, systems
-welcome!
+This is a collection of textbooks about mathematics, robotics and automatic control. It contains both Chinese and English textbooks, which are being updated in succession...
+这是一个关于数学、机器人学和自动控制领域的课本合集，里面既包含中文课本，也包含英文课本，陆续更新中。。。
